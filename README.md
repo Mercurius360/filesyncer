@@ -21,7 +21,7 @@ It’s designed for cases where you want two apps/games/folders to reference the
 1. Select the **Source folder** (this is where the link will be created)
 2. Type the **Link Name** (example: `live_streams.sii` or `profiles`)
 3. Select the **Target** file/folder (this is what the link points to)
-4. Choose link type and click **Create Link**
+4. Choose link type and click **Create Sync**
 
 ## Requirements
 
