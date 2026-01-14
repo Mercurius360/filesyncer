@@ -1,6 +1,5 @@
 # File Syncer
-
-<img width="902" height="592" alt="Image" src="https://github.com/user-attachments/assets/d6795012-b76f-4a87-b45b-30366c9ab1f6" />
+<img width="902" height="592" alt="Image" src="https://github.com/user-attachments/assets/94003917-5c27-441c-924f-f2e84653056c" />
 
 File Syncer is a lightweight Windows GUI tool for creating file/folder links between locations (Hardlink, Symlink, Junction) using a simple “pick source folder + name the link + pick target” workflow.
 
